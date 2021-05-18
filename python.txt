@@ -1,3 +1,4 @@
+print("Hello world!")
 and para comparar si dos valores son verdaderos.
 -or para comparar si dos valores son falsos.
 -not para invertir el valor booleano.
